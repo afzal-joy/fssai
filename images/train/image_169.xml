@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newfssai</folder>
+	<filename>image_169.jpg</filename>
+	<path>/home/afzal/Desktop/newfssai/image_169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1304</width>
+		<height>1893</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fssai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>1509</ymin>
+			<xmax>167</xmax>
+			<ymax>1568</ymax>
+		</bndbox>
+	</object>
+</annotation>

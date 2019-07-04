@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fssai_images</folder>
+	<filename>108.jpg</filename>
+	<path>/home/afzal/Desktop/fssai_images/108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>1092</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fssai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>923</ymin>
+			<xmax>354</xmax>
+			<ymax>989</ymax>
+		</bndbox>
+	</object>
+</annotation>
